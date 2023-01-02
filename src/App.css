@@ -1,12 +1,31 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
+.loginHeader{
+  margin:70px;
+}
+.label{
+  width: 15%;
+}
+.register_link{
+  margin: 10px;
+ }
+ .pad{
+  padding: 10px;
+ }
+ li{
+  list-style: none;
+ }
+ .form-control{
+  display: inline;
+  width: auto;
+ }
+ .t_div{
+  width:0%;
+ }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
